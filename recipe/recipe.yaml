@@ -1,5 +1,5 @@
 context:
-  version: "0.12.0"
+  version: "0.12.2"
 
 package:
   name: elkjs
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/elkjs/-/elkjs-${{ version }}.tgz
-  sha256: c1d7719723e020b10724e3ccbc935696a2884f1e78d361cdd03766309e8e8e2a
+  sha256: 040103d531c9c2f8565c1f7476c6658040dfaa623e0462fe3dca15c254e086e2
 
 build:
   number: 0
